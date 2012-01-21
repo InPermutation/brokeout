@@ -1,0 +1,3 @@
+#ball, #paddle, #board, .brick { border: 1px solid black; }
+#paddle, #ball  { background-color: black; }
+.brick { background-color: #900; }
